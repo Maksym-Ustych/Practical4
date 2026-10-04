@@ -1,0 +1,16 @@
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\bin\Debug\net8.0-windows\Practical4_Ustych.exe
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\bin\Debug\net8.0-windows\Practical4_Ustych.deps.json
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\bin\Debug\net8.0-windows\Practical4_Ustych.runtimeconfig.json
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\bin\Debug\net8.0-windows\Practical4_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\bin\Debug\net8.0-windows\Practical4_Ustych.pdb
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.Form1.resources
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.csproj.GenerateResource.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.AssemblyInfoInputs.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.AssemblyInfo.cs
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.csproj.CoreCompileInputs.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\refint\Practical4_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.pdb
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\Practical4_Ustych.genruntimeconfig.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\4\Practical4_Ustych\Practical4_Ustych\obj\Debug\net8.0-windows\ref\Practical4_Ustych.dll
